@@ -3,7 +3,7 @@
 This will take a list of mobile Device IDs exported from a Jamf Pro server and utilize Bearer Token authentication to delete the list of devices and record the list in a log file. 
 
 
-#	Usage: 
+#	USAGE: 
 		Place in the same directory
 			- .txt file labeled ---> jamf_pro_id_numbers.txt
 			- .sh file labeled ----> mass_delete_Jamf_Pro_Mobile_Devices.sh
