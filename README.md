@@ -15,7 +15,8 @@ This will take a list of mobile Device IDs exported from a Jamf Pro server and u
 			  to delete mobile devices from the Jamf Pro server.
 			- password for the account on the Jamf Pro server
 
-#	EXAMPLE OF USE: Change Directory on Terminal to the folder with the script and txt file
+#	EXAMPLE OF USE: 
+		Change Directory on Terminal to the folder with the script and txt file
 
 #		RUN COMMAND BELOW
 
