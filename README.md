@@ -1,6 +1,6 @@
 
 # Mass Delete Mobile Devices in Jamf Pro
-This will take a list of mobile Device IDs exported from a Jamf Pro server and utilize Bearer Token authentication to delete the list of devices and record the list in a log file. 
+This script will take a list of mobile Device IDs exported from a Jamf Pro server and delete the devices from Jamf utilizing Bearer Token authentication and record the list in a predefined log file. 
 
 
 #	USAGE: 
@@ -18,7 +18,8 @@ This will take a list of mobile Device IDs exported from a Jamf Pro server and u
 #	EXAMPLE OF USE: 
 		Change Directory on Terminal to the folder with the script and txt file
 
-#		RUN COMMAND BELOW
+#	RUN COMMAND BELOW
 
 		./mass_delete_Jamf_Pro_Mobile_Devices.sh jamf_pro_id_numbers.txt
+		^^This will be the script name           ^^This will be the file of Jamf Pro Device IDs
 
